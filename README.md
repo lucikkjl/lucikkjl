@@ -18,10 +18,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, aqui contém alguns
 - **Ferramentas:** MySQL Workbench, Figma, Git  
 - **Frameworks:** Node.js   
 
-### 🎨 Ferramentas de Design  
+### 🎨 Ferramentas de Design que tenho afinidade
+<div><br/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
-
+</div>
+</br>
 ## 📫 Conecte-se comigo
 - 💼 [LinkedIn](www.linkedin.com/in/luciana-rodrigues-de-lara-672766180)  
 - 📸 [Instagram](https://www.instagram.com/ateecv)
