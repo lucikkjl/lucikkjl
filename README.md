@@ -29,6 +29,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, aqui contém alguns
 <a href="https://www.linkedin.com/in/luciana-rodrigues-de-lara-672766180" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="[https://www.instagram.com/ateecv](https://www.instagram.com/ateezcv?igsh=MXhmc2M0c2JseHFncA==)" target="_blank">
+<a href="https://www.instagram.com/ateecv](https://www.instagram.com/ateezcv?igsh=MXhmc2M0c2JseHFncA==" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
