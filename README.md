@@ -1,4 +1,4 @@
-# 👋 Oi! Me chamo Luciana!
+# Olá! Me chamo Luciana! :)
 
 ## 🎓 Sobre mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, aqui contém alguns dos meus projetos acadêmicos, pessoais e colaborativos.
