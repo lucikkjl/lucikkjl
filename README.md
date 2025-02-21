@@ -9,10 +9,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, aqui contém alguns
 - Programação Orientada a Objetos  
 - UI/UX Design  
 
-## 🚀 Projetos em destaque
-- 📚 **Bibliotech** — Protótipo de site para gerenciamento de biblioteca  
-- 🍳 **QuaseTudoGostoso** — Banco de dados de receitas culinárias   
-
 ## ✨ Tecnologias que utilizo
 - **Linguagens:** Java, JavaScript, SQL  
 - **Ferramentas:** MySQL Workbench, Figma, Git  
